@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnnaLya27
 - 👀 I’m interested in system analytics
-- 🌱 I’m currently learning rest api practice
+- 🌱 I’m currently learning REST API practices
 - 📫 How to reach me: in skype: anutkashel
 
 <!---
